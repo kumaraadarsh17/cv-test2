@@ -75,6 +75,7 @@ h2 {
 .profile {
   width: 50%;
   margin: auto;
+  padding-top: 10px;
 }
 
 .profile-img {
